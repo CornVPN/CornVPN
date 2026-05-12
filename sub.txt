@@ -6,3 +6,4 @@
 
 vless://aae8d73c-f59d-4bac-9a80-87de0deba078@35.180.31.22:443?security=reality&type=tcp&headerType=&path=&host=&sni=taiyo.ai&fp=chrome&pbk=SRknvLvWjmSNKg7dWLelc-ZL9vA9ohSorDCy0-AwDBs&sid=a7f0c2e8d5b94136#🇫🇷CornVPN%20%7C%20France
 vless://a58fea0e-995c-4e1d-9010-66bc4224b02b@3.64.130.5:443?security=reality&type=tcp&headerType=&path=&host=&sni=www.aliexpress.com&fp=chrome&pbk=erly1rUFUBXnINK_DTvL62CkWqDHW-zpFcKlbdwHhFE&sid=1e9f4a8c7b3d0256#🇩🇪CornVPN%20%7C%20Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2ZDd1WVJMVFVRTjM3TUJMVlVlSkZiY2Y4ZFg2dG90dnl6dTdmUVNXbjVRMVNGd3FjUnJDOVVMTDg0blBlQ1h2cTNxRmlFTjdiQmVid01mRDZBbnF5bXNqOThWY1Z6QTU@start.hazyshai.icu:51939/?outline=1&prefix=%16%03%01%00%C2%A8%01%01#🇪🇺CornVPN%20%7C%20SS
